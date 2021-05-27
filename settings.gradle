@@ -1,0 +1,2 @@
+rootProject.name = "MVVM Example Basic Spr21"
+include ':app'
